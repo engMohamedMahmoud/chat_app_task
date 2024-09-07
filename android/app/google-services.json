@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737203410075",
+    "project_id": "coursechat-462e3",
+    "storage_bucket": "coursechat-462e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737203410075:android:33853154fa8667f236623e",
+        "android_client_info": {
+          "package_name": "com.example.chat_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEFnEB5O8vaopbkQvnbB77DocYA9jeWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
